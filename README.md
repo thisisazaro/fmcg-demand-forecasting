@@ -96,6 +96,8 @@ Machine learning models incorporate structural business drivers, making them bet
 ---
 
 ## 📁 Project Structure
+
+```text
 fmcg-demand-forecasting/
 │
 ├── notebooks/
@@ -113,7 +115,7 @@ fmcg-demand-forecasting/
 │
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
