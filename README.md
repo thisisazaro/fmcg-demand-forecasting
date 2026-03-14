@@ -1,5 +1,7 @@
 # FMCG Demand Forecasting — Time Series vs Machine Learning
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19023324.svg)](https://doi.org/10.5281/zenodo.19023324)
+
 ## 📌 Project Overview
 
 This project investigates demand forecasting for an FMCG company using both classical time series methods and modern machine learning models.
